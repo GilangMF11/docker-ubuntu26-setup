@@ -1,0 +1,5 @@
+jenkins_home/
+.backup/
+*.tgz
+*.zip
+.env
